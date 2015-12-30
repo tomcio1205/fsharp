@@ -1,0 +1,5 @@
+/Users/tomekrajzer/Projects/trialfsharp/trialfsharp/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/tomekrajzer/Projects/trialfsharp/trialfsharp/bin/Debug/trialfsharp.exe.mdb
+/Users/tomekrajzer/Projects/trialfsharp/trialfsharp/bin/Debug/trialfsharp.exe
+/Users/tomekrajzer/Projects/trialfsharp/trialfsharp/obj/x86/Debug/trialfsharp.exe
+/Users/tomekrajzer/Projects/trialfsharp/trialfsharp/obj/x86/Debug/trialfsharp.exe.mdb
